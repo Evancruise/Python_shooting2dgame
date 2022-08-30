@@ -6,20 +6,6 @@ The game was on a cartridge (i'm sure today's kids don't know what is that!), I 
 This is an attempt to recreate the game after 32 years using Python programming language.
 This was not easy to recreate and I had to look up a lot of the logic on internet.
 
-## Story
-
-You are the local Missile Commander for the Missile Intercept Launch Function. 
-
-You are responsible for the safety of millions of citizens in six nearby cities.  Nuclear war has just broken out.  Wave after wave of nuclear warheads have been detected re-entering the atmostphere in your zone of control.
-
-All that stands between the last remaining citizens of your country and a fireball of death are your lightning reflexes and sharp-shooting aim.  
-
-Get ready!
-
-
-##System
-This is written on Microsoft Windows machine.
-
 ## How to Play
 You try to shoot the fireballs aiming your cities to defend your citizens.
 
