@@ -35,16 +35,8 @@ Use the mouse to select where you want to target.
 
 Press primary mouse button to fire.
 
-## Original Game
-Missile Command is a 1980 arcade game developed and published by Atari, Inc. and licensed to Sega for European release. It was designed by Dave Theurer, who also designed Atari's vector graphics game Tempest from the same year.
-All The 1981 Atari 2600 port of Missile Command by Rob Fulop sold over 2.5 million copies and became the third most popular cartridge for the system.
-
-[Wikipedia article](https://en.wikipedia.org/wiki/Missile_Command)
-
-[Flash port of the original game](http://www.arcadedivision.com/classicgame12/shooting/missile-command.html)
-
 ## Work in Progress
 
 - working on sound system
 - adding easter eggs from other Atari games
-- possible appearnce of UFOs
+- possible appearence of UFOs
